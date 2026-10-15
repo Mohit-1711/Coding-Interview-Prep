@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0143-reorder-list) |
+## Hash Table
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
