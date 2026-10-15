@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
