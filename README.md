@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
