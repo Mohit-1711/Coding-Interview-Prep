@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2409-count-days-spent-together](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -136,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
