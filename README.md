@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3693-climbing-stairs-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
