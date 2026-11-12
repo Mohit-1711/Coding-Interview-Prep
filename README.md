@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -209,9 +212,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
