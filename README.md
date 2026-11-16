@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
