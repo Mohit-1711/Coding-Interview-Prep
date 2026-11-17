@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
