@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
