@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -287,10 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
