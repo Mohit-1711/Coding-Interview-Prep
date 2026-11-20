@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1046-last-stone-weight) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
