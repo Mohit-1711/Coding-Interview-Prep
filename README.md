@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohit-1711/Coding-Interview-Prep/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
